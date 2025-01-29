@@ -1,1 +1,1 @@
-# Laboratorio-Procesamiento-Digital-de-Se-ales
+# Laboratorio-Procesamiento-Digital-de-Señales
